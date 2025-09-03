@@ -1,0 +1,15 @@
+D:\GitHub\DemoApp\MyApp\MyApp\bin\Debug\net8.0\MyApp.exe
+D:\GitHub\DemoApp\MyApp\MyApp\bin\Debug\net8.0\MyApp.deps.json
+D:\GitHub\DemoApp\MyApp\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+D:\GitHub\DemoApp\MyApp\MyApp\bin\Debug\net8.0\MyApp.dll
+D:\GitHub\DemoApp\MyApp\MyApp\bin\Debug\net8.0\MyApp.pdb
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.dll
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.pdb
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+D:\GitHub\DemoApp\MyApp\MyApp\obj\Debug\net8.0\ref\MyApp.dll
